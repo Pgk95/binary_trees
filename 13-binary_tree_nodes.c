@@ -4,7 +4,6 @@
  * binary_tree_nodes - count the nodes with 1 child in a binary tree.
  * @tree: pointer to the root node of the tree to count nodes.
  *
- * @count: number of nodes with atleast 1 child in the binary tree.
  *
  * Return: number of nodes with at least 1 child otherwise 0 if tree is NULL.
  */
