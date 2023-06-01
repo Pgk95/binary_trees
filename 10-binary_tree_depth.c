@@ -10,7 +10,11 @@
 size_t binary_tree_depth(const binary_tree_t *tree)
 {
 	size_t depth = 0;
+<<<<<<< HEAD
 
+=======
+	
+>>>>>>> 9e6b1bef1b1798833e3fc1cb916cd4f1a208f34a
 	if (tree == NULL)
 	{
 		return (0);
